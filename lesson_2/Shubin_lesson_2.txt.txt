@@ -1,0 +1,10 @@
+1) Установил mySQL 
+
+2) создал таблицу, пример ниже:
+CREATE TABLE example.'user' (
+	id varchar(100) NULL,
+	name varchar(100) NULL
+)
+DEFAULT CHARSET=utf-8
+CALLATE=utf-8_bin;
+
